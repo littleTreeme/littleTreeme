@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### GitHub Stats
+
+![](https://activity-graph.herokuapp.com/graph?username=wangrongding&theme=github)
+
+<div align="center">
+    <a href="https://github.com/wangrongding">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=wangrongding&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="Rongding's github stats"/>
+    </a>
+    <a href="https://github.com/wangrongding">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangrongding&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="Rongding's github stats"/>
+    </a>
+</div>
+
+
+
